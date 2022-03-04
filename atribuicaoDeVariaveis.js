@@ -3,7 +3,7 @@ console.log("Trabalhando com atribuição de variáveis");
 //Utilizar o "let" permite que a variável seja sobrescrita futuramente. Funciona bem para "contadores"
 //TENTAR REDUZIR AO MÁXIMO A UTILIZAÇÃO!!!
 
-const idade = 26;
+let idade = 26;
 let primeiroNome = "Oman";
 const sobrenome = "Moura";
 
